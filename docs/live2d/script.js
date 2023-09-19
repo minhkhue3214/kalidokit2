@@ -1,3 +1,5 @@
+console.log("PIXI",JSON.stringify(PIXI));
+
 const {
     Application,
     live2d: { Live2DModel },
